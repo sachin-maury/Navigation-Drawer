@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="hello_sachin">Hello sachin</string>
+    <string name="kumarsachin67671_gmail_com">kumarsachin67671@gmail.com</string>
+    <string name="schin_kumar">Schin kumar</string>
+    <string name="hom_e">Hom e</string>
+    <string name="home">Home</string>
+    <string name="message">Message</string>
+    <string name="sync">Sync</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="communicatec">Communicatec</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="setting">setting</string>
+</resources>
